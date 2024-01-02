@@ -1,0 +1,5 @@
+node_modules/
+.env
+temp.js
+eas1_app_backend_exceptions.log
+eas1_app_backend.log
