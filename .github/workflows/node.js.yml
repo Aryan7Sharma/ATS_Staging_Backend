@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: [self-hosted, ats_server]
+    runs-on: [self-hosted, ats_server, ats_staging_server]
 
     strategy:
       matrix:
